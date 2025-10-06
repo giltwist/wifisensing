@@ -1,6 +1,6 @@
 **Requirements**
 
-* A Raspberry Pi 3B+ (a 4 may also work but I haven't tested it) running Raspbian Bullseye patched wth the [Nexmon patches] (https://github.com/seemoo-lab/nexmon)
+* A Raspberry Pi 3B+ (a 4 may also work but I haven't tested it) running Raspbian Bullseye patched wth the [Nexmon patches](https://github.com/seemoo-lab/nexmon)
 * An additional USB wifi adapter to enable the RPi to be able to have internet access while the built-in wifi is set to monitor mode for wifi sensing.
 
 **Basic Apprach**
