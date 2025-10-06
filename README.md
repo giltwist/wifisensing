@@ -9,3 +9,11 @@ Human bodies absorb a variety of electromagnetic frequencies very well. If a per
 **About this Repo**
 
 At this point, my explorations are still strongly tied to the specific hardware on which they run, so these folders contains the snippets of the code that would potentially be reusable by others.  For example, nobody else is going to have the little RGB smart lamp I made for a class, but they might very well have a Raspberry Pi 3B+.  So, the actual meaningful wifi sensing code for that hardware gets a folder, but I've stripped out a lot of the connected code for, say, controlling the color of the lamp.
+
+**More Reading**
+
+* Schäfer, J., Barrsiwal, B. R., Kokhkharova, M., Adil, H., & Liebehenschel, J. (2021). Human Activity Recognition Using CSI Information with Nexmon. _Applied Sciences_, _11_(19), 8860. _<https://doi.org/10.3390/app11198860>_
+
+* Yang, J., Chen, X., Zou, H., Lu, C. X., Wang, D., Sun, S., & Xie, L. (2023). SenseFi: A library and benchmark on deep-learning-empowered wifi human sensing. _Patterns_, _4_(3), 100703. _<https://doi.org/10.1016/j.patter.2023.100703>_
+
+
